@@ -157,3 +157,16 @@
 		});
 
 })(jQuery);
+
+function getMore(buttonName, textName) {
+	var text = document.getElementById(textName);
+	var button = document.getElementById(buttonName);
+
+	if(text.style.display === "inline") {
+		text.style.display = "none";
+		button.value = "Learn More"
+	} else {
+		text.style.display = "inline";
+		button.value = "See Less"
+	}
+}
