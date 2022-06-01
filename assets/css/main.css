@@ -244,6 +244,10 @@ input, select, textarea {
 		font-size: 1.75em;
 	}
 
+	.pricing .actions {
+		margin-bottom: 0.25em;
+	}
+
 
 
 /* Row */
@@ -2533,10 +2537,10 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #ffffff;
+		background-color: #555156;
 		border-radius: 50px;
 		border: 0;
-		color: #000000 !important;
+		color: #f7f7f7 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 700;
@@ -3284,7 +3288,7 @@ input, select, textarea {
 		/* List */
 
 			ul.actions {
-				margin: 0 0 2.25em 0;
+				margin: 0 0 0 0;
 			}
 
 				ul.actions li {
