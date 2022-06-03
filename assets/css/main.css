@@ -2556,7 +2556,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			background-color: #EBAE21;
+			background-color: #C6202E;
 			color: #ffffff !important;
 		}
 
@@ -2564,7 +2564,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		input[type="button"]:active,
 		.button:active {
-			background-color: #C6202E;
+			background-color: #EBAE21;
 		}
 
 		input[type="submit"].icon,
