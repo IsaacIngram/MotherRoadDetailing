@@ -2564,7 +2564,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		input[type="button"]:active,
 		.button:active {
-			background-color: #EBAE21;
+			background-color: #C6202E;
 		}
 
 		input[type="submit"].icon,
